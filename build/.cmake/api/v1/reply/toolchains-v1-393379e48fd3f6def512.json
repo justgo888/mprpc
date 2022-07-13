@@ -31,7 +31,7 @@
 						"gcc_s"
 					]
 				},
-				"path" : "/usr/bin/gcc",
+				"path" : "/usr/bin/cc",
 				"version" : "10.3.1"
 			},
 			"language" : "C",
@@ -75,7 +75,7 @@
 						"gcc"
 					]
 				},
-				"path" : "/usr/bin/g++",
+				"path" : "/usr/bin/c++",
 				"version" : "10.3.1"
 			},
 			"language" : "CXX",

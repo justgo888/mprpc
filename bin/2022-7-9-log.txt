@@ -1,3 +1,0 @@
-22:2:21 =>[info]service_name:UserServiceRpc
-22:2:21 =>[info]method_name:Login
-22:2:21 =>[info]method_name:Register
