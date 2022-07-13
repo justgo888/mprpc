@@ -1,4 +1,4 @@
-#mprpc属于liuyu构建的rpc通信框架
+#mprpc属于justgo构建的rpc通信框架
 
 #项目结构：
 bin:可执行文件
